@@ -1,0 +1,13 @@
+	Welcome Webcode Retail
+
+ Bill Number : 6082
+ Customer Name : fag
+ Phone Number : 753
+=========================================
+ Product		QYT		Price
+=========================================
+ Face Wash		3		360
+-----------------------------------------
+ Cosmetic Product Tax  			 Rs. 18.0
+-----------------------------------------
+ Total Bill : 			 Rs. 378.0

@@ -1,0 +1,13 @@
+	Welcome Webcode Retail
+
+ Bill Number : 1376
+ Customer Name : xde
+ Phone Number : 13
+=========================================
+ Product		QYT		Price
+=========================================
+ Food Oil		2		3100
+-----------------------------------------
+ Grosary Product Tax   			 Rs. 155.0
+-----------------------------------------
+ Total Bill : 			 Rs. 3255.0

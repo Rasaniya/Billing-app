@@ -1,0 +1,17 @@
+	Welcome Webcode Retail
+
+ Bill Number : 4565
+ Customer Name : bhavsg
+ Phone Number : 75395
+=========================================
+ Product		QYT		Price
+=========================================
+ Bath Soap		1		40
+ Food Oil		1		1550
+ Maza		1		50
+-----------------------------------------
+ Cosmetic Product Tax  			 Rs. 2.0
+ Grosary Product Tax   			 Rs. 77.5
+ Cold-Drink Product Tax			 Rs. 2.5
+-----------------------------------------
+ Total Bill : 			 Rs. 1722.0
